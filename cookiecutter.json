@@ -1,0 +1,8 @@
+{
+    "project_title":"Cookiecutter Conxatumae",
+    "project_slug":"cookiecutter_personal",
+    "project_description":"Lo xavale",
+    "project_author_name":"No nombre oe verga",
+    "project_packages":["All", "Minimal"],
+    "python_version":"3.7"
+}
